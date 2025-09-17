@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm ARINDAM</h1>
 
 <p align="center">
-  <em>Pursuing B.Tech in Computer Science and Engineering | Full-Stack Developer</em>
+  <em>B.Tech in Computer Science and Engineering | Full-Stack Developer</em>
 </p>
 
 ---
